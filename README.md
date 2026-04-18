@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Suriya Raja
 
-<!--
-**suriyaraja08/suriyaraja08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering Graduate (2021–2025)  
+📊 Aspiring Data Analyst  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+Detail-oriented graduate with strong foundation in data analytics.  
+Skilled in analyzing data, building dashboards, and generating insights to support decision-making.
+
+---
+
+## Skills
+- Python (Pandas, NumPy, Matplotlib)
+- SQL (PostgreSQL, MySQL)
+- Excel (Pivot Tables, VLOOKUP)
+- Power BI
+
+---
+
+## Projects
+
+### Customer Behavior & Sales Analytics
+- Performed data cleaning and exploratory data analysis  
+- Extracted insights using SQL  
+- Built Power BI dashboard with KPIs  
+
+### Business Intelligence Dashboard
+- Designed interactive dashboards using Power BI  
+- Created reports for performance tracking  
+
+---
+
+## Contact
+- LinkedIn:
+- Email: suriyarajaofficial31@gmail.com
